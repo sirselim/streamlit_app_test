@@ -13,6 +13,10 @@ Once streamlit is installed on your local machine you can run the app in this re
 
 `streamlit run https://raw.githubusercontent.com/sirselim/streamlit_app_test/master/test_app.py`
 
+For something a little fancier try"
+
+`streamlit run https://raw.githubusercontent.com/streamlit/demo-self-driving/master/app.py`
+
 When you are ready to deploy to the web [Heroku](www.heroku.com) is a simple, free option.
 
 # set up Heroku
