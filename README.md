@@ -13,7 +13,7 @@ Once streamlit is installed on your local machine you can run the app in this re
 
 `streamlit run https://raw.githubusercontent.com/sirselim/streamlit_app_test/master/test_app.py`
 
-For something a little fancier try"
+For something a little fancier try (*Warning*: this will pull ~250Mb of data):
 
 `streamlit run https://raw.githubusercontent.com/streamlit/demo-self-driving/master/app.py`
 
