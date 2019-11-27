@@ -45,8 +45,11 @@ Visit the app site:
 
 ## deploy to heroku
 
-To deploy to Heroku you need to have at least these three files:
+To deploy to Heroku you need to have at least these four files present:
 
 * the pythong app (`test_app.py` here)
 * a `Procfile` - test Heroku how/what to run
 * a `requirements.txt` file - packages to load (dependencies)
+* `setup.sh` - server setup instructions
+
+*Note:* it seems that you might also need to have the app already setup as a git repo. I was getting an error until I pushed it to my GitHub. Need to look into this further.
