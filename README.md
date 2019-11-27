@@ -5,7 +5,7 @@ This is a testing repo that details a basic app and how to deploy it using the H
 
 # create an app
 
-[This section will be flesh out at a later date.]
+[This section will be fleshed out at a later date.]
 
 Create an app using [streamlit](https://streamlit.io).
 
